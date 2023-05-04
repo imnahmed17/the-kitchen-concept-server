@@ -7,3 +7,5 @@ Containing some live json files
 [Cors](http://expressjs.com/en/resources/middleware/cors.html)
 
 [nodemon](https://www.npmjs.com/package/nodemon)
+
+[Vercel CLI](https://vercel.com/docs/cli)
