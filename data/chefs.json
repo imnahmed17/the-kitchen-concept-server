@@ -38,7 +38,7 @@
         "picture": "https://i.ibb.co/HtzMbQH/pexels-photo-3814446.jpg",
         "chefName": "Cleo Bettes",
         "yearOfExperience": 3,
-        "noOfRecipes": 2,
+        "noOfRecipes": 3,
         "recipes": [
             {
                 "idMeal": 200,
@@ -106,7 +106,7 @@
         "picture": "https://i.ibb.co/3YfQxzy/62489.jpg",
         "chefName": "Waldo Jeka",
         "yearOfExperience": 9,
-        "noOfRecipes": 4,
+        "noOfRecipes": 3,
         "recipes": [
             {
                 "idMeal": 400,
@@ -140,7 +140,7 @@
         "picture": "https://i.ibb.co/3pnhRKQ/Hong-Thaimee-386x580.jpg",
         "chefName": "Tisa Sulzen",
         "yearOfExperience": 2,
-        "noOfRecipes": 2,
+        "noOfRecipes": 3,
         "recipes": [
             {
                 "idMeal": 500,
@@ -174,7 +174,7 @@
         "picture": "https://i.ibb.co/sH1xJPq/70794.jpg",
         "chefName": "Harrington Dickerson",
         "yearOfExperience": 12,
-        "noOfRecipes": 5,
+        "noOfRecipes": 4,
         "recipes": [
             {
                 "idMeal": 600,
